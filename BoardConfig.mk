@@ -31,3 +31,5 @@ TARGET_OTA_ASSERT_DEVICE := d2att
 
 TARGET_BOARD_INFO_FILE ?= device/samsung/d2att/board-info.txt
 
+# TWRP
+TW_THEME := portrait_hdpi
