@@ -1,0 +1,27 @@
+[
+  {
+    "repository": "CyanogenMod/android_device_samsung_d2-common",
+    "target_path":"device/samsung/d2-common",
+    "branch":     "CM-12.1"
+  },
+  {
+    "repository": "DirtyUnicorns/android_device_samsung_qcom-common",
+    "target_path":"device/samsung/qcom-common",
+    "branch":     "lollipop-caf"
+  },
+  {
+    "repository":  "CyanogenMod/android_device_samsung_msm8960-common",
+    "target_path": "device/samsung/msm8960-common",
+    "branch":      "CM-12.1"
+  },
+  {
+    "repository":  "CyanogenMod/android_kernel_samsung_d2",
+    "target_path": "kernel/samsung/d2",
+    "branch":      "CM-12.1"
+  },
+  {
+    "repository":  "DirtyUnicorns/android_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch":      "lollipop-caf"
+  }
+]
